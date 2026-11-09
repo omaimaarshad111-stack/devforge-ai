@@ -9,6 +9,20 @@ The repository includes specialized agent implementations, LangGraph
 orchestration, isolated code/test execution, a FastAPI backend, and SQLite
 persistence for projects and their development history.
 
+## Screenshots
+
+### Main Homepage
+![Main Homepage](docs/screenshots/mainhomepage.jpeg)
+
+### New Project
+![New Project](docs/screenshots/newproject.jpeg)
+
+### Agent Workflow
+![Agent Workflow](docs/screenshots/agent-workflow.jpeg)
+
+### API Security
+![api security](docs/screenshots/api-security.jpeg)
+
 ## Architecture
 
 - `app/agents/` — specialized project manager, architect, developer, tester,
